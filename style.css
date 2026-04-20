@@ -20,7 +20,7 @@ body {
   color: var(--ink);
   font-size: 15px;
   line-height: 1.65;
-  max-width: 1050px;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 64px 52px;
   overflow-x: hidden;
