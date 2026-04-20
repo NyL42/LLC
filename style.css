@@ -317,21 +317,24 @@ header {
   font-weight: 300;
   line-height: 1.7;
 }
-.feature-pair-full {
+
+/* ─── University block ─── */
+.uni-block {
+  background: var(--card);
+  padding: 28px 32px;
   margin-bottom: 44px;
 }
-.feature-pair-full h3 {
+.uni-block h3 {
   font-family: 'DM Serif Display', serif;
   font-size: 18px;
   margin-bottom: 12px;
   line-height: 1.2;
 }
-.feature-pair-full p {
+.uni-block p {
   font-size: 13.5px;
   color: var(--muted);
   font-weight: 300;
   line-height: 1.7;
-  max-width: 580px;
 }
 
 /* ─── Signal tags ─── */
